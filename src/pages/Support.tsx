@@ -98,7 +98,7 @@ export function SupportPage() {
                 window.open("https://sussy-code.github.io/docs", "_blank")
               }
             >
-              saboreq-flix Docs
+              Sudo-Flix Docs
             </Button>
           </div>
         </Paragraph>

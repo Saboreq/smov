@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "saboreq-flix on verkkosovellus, joka etsii suoratoistoja internetistä. Tiimi pyrkii enimmäkseen minimalistiseen lähestymistapaan sisällön kuluttamiseen.",
+    "description": "Sudo-Flix on verkkosovellus, joka etsii suoratoistoja internetistä. Tiimi pyrkii enimmäkseen minimalistiseen lähestymistapaan sisällön kuluttamiseen.",
     "faqTitle": "Yleisiä kysymyksiä",
     "q1": {
-      "body": "saboreq-flix ei isännöi mitään sisältöä. Kun klikkaat jotain katsottavaa, valittua mediaa etsitään internetistä (latausnäytössä ja 'videolähteet'-välilehdellä näet, mitä lähdettä käytät). saboreq-flix ei koskaan lataa mediaa, kaikki tapahtuu tämän hakumekanismin kautta.",
+      "body": "Sudo-Flix ei isännöi mitään sisältöä. Kun klikkaat jotain katsottavaa, valittua mediaa etsitään internetistä (latausnäytössä ja 'videolähteet'-välilehdellä näet, mitä lähdettä käytät). Sudo-Flix ei koskaan lataa mediaa, kaikki tapahtuu tämän hakumekanismin kautta.",
       "title": "Mistä sisältö tulee?"
     },
     "q2": {
-      "body": "Ohjelmaa tai elokuvaa ei voi pyytää, saboreq-flix ei hallinnoi sisältöä. Kaikki sisältö katsotaan internetin lähteistä.",
+      "body": "Ohjelmaa tai elokuvaa ei voi pyytää, Sudo-Flix ei hallinnoi sisältöä. Kaikki sisältö katsotaan internetin lähteistä.",
       "title": "Missä voin pyytää sarjaa tai elokuvaa?"
     },
     "q3": {
       "body": "Hakutuloksemme perustuvat The Movie Database (TMDB) -tietokantaan, ja ne näkyvät riippumatta siitä, onko sisältöä oikeasti lähteissämme.",
       "title": "Hakutuloksissa näytetään ohjelma tai elokuva. Miksi en voi toistaa sitä?"
     },
-    "title": "Tietoja saboreq-flixistä"
+    "title": "Tietoja Sudo-Flixistä"
   },
   "actions": {
     "copied": "Kopioitu",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Vastuuvapauslauseke",
-      "disclaimerText": "saboreq-flix ei isännöi tiedostoja, se vain linkittää kolmannen osapuolen palveluihin. Lakiasioista tulee ottaa yhteyttä tiedostoisäntään ja palveluntarjoajiin. saboreq-flix ei ole vastuussa videontarjoajien näyttämistä mediatiedostoista."
+      "disclaimerText": "Sudo-Flix ei isännöi tiedostoja, se vain linkittää kolmannen osapuolen palveluihin. Lakiasioista tulee ottaa yhteyttä tiedostoisäntään ja palveluntarjoajiin. Sudo-Flix ei ole vastuussa videontarjoajien näyttämistä mediatiedostoista."
     },
     "links": {
       "discord": "Discord",
@@ -90,13 +90,13 @@
     "tagline": "Katso suosikkiohjelmiasi ja elokuviasi tällä avoimen lähdekoodin suoratoistosovelluksella."
   },
   "global": {
-    "name": "saboreq-flix",
+    "name": "Sudo-Flix",
     "pages": {
       "about": "Meistä",
       "dmca": "DMCA",
       "login": "Kirjaudu sisään",
       "onboarding": "asetus",
-      "pagetitle": "{{title}} - saboreq-flix",
+      "pagetitle": "{{title}} - Sudo-Flix",
       "register": "Rekisteröidy",
       "settings": "Asetukset"
     }
